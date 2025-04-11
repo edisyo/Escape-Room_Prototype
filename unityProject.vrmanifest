@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.esacperoomprototype.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Unity Projects\\Bakalaurs\\Esacpe Room Prototype\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Esacpe Room Prototype [Testing]"
+        }
+      }
+    }
+  ]
+}
